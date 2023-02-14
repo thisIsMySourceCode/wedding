@@ -1,2 +1,2 @@
 # wedding
-My Wedding ecard
+Our Wedding ecard
